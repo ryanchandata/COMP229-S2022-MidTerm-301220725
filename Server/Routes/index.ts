@@ -1,3 +1,12 @@
+//---------------------------------------------
+//Author: Ryan Chan
+//ID: 301220725
+//Course Code : COMP229
+//Course Name : Web Application Development
+//WebApp Name: Book Store
+//---------------------------------------------
+
+
 // modules required for routing
 import express from 'express';
 const router = express.Router();
